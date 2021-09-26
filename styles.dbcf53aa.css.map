@@ -1,1 +1,0 @@
-{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,sBACF,CAEA,YACE,qBAAuB,CACvB,uBACF,CAEA,IACE,YACF","file":"styles.dbcf53aa.css","sourceRoot":"..","sourcesContent":["body {\n  font-family: sans-serif;\n}\n\n#gameScreen {\n  background-color: black;\n  border: 1px solid tomato;\n}\n\nimg {\n  display: none;\n}\n"]}
